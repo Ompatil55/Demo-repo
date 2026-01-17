@@ -1,3 +1,3 @@
 # Demo-repo
-for practice
-Example Git
+
+Example Git (For practice purpose only)
